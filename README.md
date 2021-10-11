@@ -1,7 +1,7 @@
 # fake-news-detection
 
 Add the following :-
-1. Bottom up attention code with edits in detectron2 files
+1. Bottom up attention code - Done
 2. Text embedding file - mediaeval - Done
 3. Image embedding file - mediaeval - Done
 4. Final model - mediaeval - Done 
